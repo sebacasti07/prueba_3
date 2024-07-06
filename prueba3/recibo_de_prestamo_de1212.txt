@@ -1,0 +1,6 @@
+Recibo del prestamo 
+ Nombre: seba castillo 
+ ID Libro: 1212 
+ Fecha de prestamo 07/07/07 
+ Fecha de devolucion 07/07/07 
+
